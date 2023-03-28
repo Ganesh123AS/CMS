@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+![images](https://raw.githubusercontent.com/Ganesh123AS/github/main/Screenshot%20(183).png)
+![dwjh](https://raw.githubusercontent.com/Ganesh123AS/github/main/Screenshot%20(184).png)
+
 In the project directory, you can run:
 
 ### `npm start`
@@ -70,4 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-![images](https://raw.githubusercontent.com/Ganesh123AS/github/main/Screenshot%20(183).png)
